@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "tic-tac-toe-js": "0.0.2"
+    },
+    "type": "module"
+}
