@@ -2,5 +2,9 @@
     "dependencies": {
         "tic-tac-toe-js": "0.0.2"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SVGvsevolod/ttt-server.git"
+    },
     "type": "module"
 }
